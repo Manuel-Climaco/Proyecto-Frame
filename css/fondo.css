@@ -1,0 +1,11 @@
+body{
+    background-image: url(../img/carrito.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.centrado{
+    justify-content: center;
+}
+
